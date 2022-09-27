@@ -62,7 +62,12 @@ module.exports = {
 	create,
 	domains,
 };
+/*
 
+	Original Code below, some features not converted over as of yet due 
+	to lack of reason for it being there however can be easily converted at later date
+
+/*
 
 
 //module.exports.deleteMessage = (id, callback) => {
